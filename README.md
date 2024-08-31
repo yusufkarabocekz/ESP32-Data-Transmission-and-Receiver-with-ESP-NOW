@@ -50,8 +50,5 @@ This utility sketch is used to obtain the MAC address of an ESP32 device. The MA
 - **Data Sending and Receiving:** After uploading the sketches, the sender ESP32 will begin transmitting sensor data, and the receiver ESP32 will display the received data on the Serial Monitor.
 - **MAC Address Retrieval:** Use the MAC address utility sketch to configure your ESP-NOW communication.
 
-## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code as per the license terms.
-
 ## Contributing
 If you would like to contribute to this project, feel free to open a pull request or submit an issue.
